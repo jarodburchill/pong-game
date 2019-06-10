@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/paddle.png</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/ball.png</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/paddleSound.wav</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/wallSound.wav</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/scoreSound.wav</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/font.spritefont</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/largeFont.spritefont</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/pongTheme.mp3</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/bg.png</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/menu.png</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/help.png</File>
+    <File>C:/Users/Jarod/Documents/Game Programming/JBurchillFinalProjectMasterFolder/JBurchillFinalProject/JBurchillFinalProject/Content/credits.png</File>
+  </SourceFiles>
+</SourceFileCollection>
